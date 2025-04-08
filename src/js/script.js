@@ -87,6 +87,14 @@ console.log(num3 > num4 && num4 < 50);
 console.log(num3 > num4 || num4 > num3);
 console.log(num4 == num3 || num4 > num3);
 
+//Operadores de comparação
+const num5 = 25;
+const num6 = 35;
+
+console.log(num5 == num6); //compara
+console.log(num5 === num6); //compara e verifica o tipo da variável
+console.log(num5 != num6); //diferente
+
 
 
 
